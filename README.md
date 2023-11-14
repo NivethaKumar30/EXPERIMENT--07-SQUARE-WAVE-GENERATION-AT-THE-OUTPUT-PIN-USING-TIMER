@@ -226,7 +226,8 @@ TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
 FREQUENCY = 62.5Hz
 ```
-##RESULT:
+RESULT:
+
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
 
 
