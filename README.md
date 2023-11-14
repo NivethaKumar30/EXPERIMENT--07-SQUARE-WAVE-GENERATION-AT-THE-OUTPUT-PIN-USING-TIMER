@@ -188,37 +188,45 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
- ![Screenshot 2023-10-11 142938](https://github.com/NivethaKumar30/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559844/06a3fb6b-03f0-4b3c-b532-347e1cacb895)
+![image](https://github.com/NivethaKumar30/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559844/6d0a78e7-a425-4ac0-b8ea-e33c5b6a6c9b)
 
- 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
+
+ ![image](https://github.com/NivethaKumar30/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559844/52609e42-4ee2-4ad1-a6c9-b2b123f5419e)
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
+
 FOR PULSE AT 500
 
-TON = 
-TOFF=
-TOTAL TIME = 
+![image](https://github.com/NivethaKumar30/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559844/229581e6-e8d2-419b-b777-aaf430d0bc7b)
+```
+TON = 8
+TOFF= 8
+TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
-
+FREQUENCY = 62.5Hz
+```
 FOR PULSE AT 700
 
-TON = 
-TOFF=
-TOTAL TIME = 
+![image](https://github.com/NivethaKumar30/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559844/8c2dd44e-aea1-44ee-a5eb-17222c0c2a40)
+```
+TON = 13
+TOFF= 3
+TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
-
-
+FREQUENCY = 62.5Hz
+```
 FOR PULSE AT 900
 
-TON = 
-TOFF=
-TOTAL TIME = 
+![image](https://github.com/NivethaKumar30/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/119559844/ecc17d86-b949-44e1-b068-adacd65aad00)
+```
+TON = 14
+TOFF= 2
+TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
-
-
-## Result :
+FREQUENCY = 62.5Hz
+```
+##RESULT:
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
 
 
